@@ -217,7 +217,7 @@ export default function NouveauDevisPage() {
                   onBlur={() => setIsInputFocused(false)}
                   className="w-full rounded-xl border border-slate-700 bg-slate-950 px-3 py-2 text-base text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#2563eb] focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950"
                 >
-                  <option>Défannage</option>
+                  <option>Dépannage</option>
                   <option>Installation</option>
                   <option>Rénovation</option>
                 </select>
